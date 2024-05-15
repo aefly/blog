@@ -1,0 +1,123 @@
+baseURL: https://blog.aefly.gg/
+languageCode: en-us
+title: aefly's blog
+theme: PaperMod
+paginate: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableCSS: false
+  disableHTML: false
+  disableJS: false
+  disableJSON: false
+  disableSVG: false
+  disableXML: true
+  minifyOutput: true
+
+params:
+  version: "1.0"
+  env: production
+  title: aefly's blog
+  description: Dive into my world through my blog where I share my projects, tutorials, and inspirations.
+  copyrightName: aefly.gg
+  images: ["https://cdn.aefly.gg/cache/v1/opengraph.webp"]
+  keywords:
+    - blog
+    - digital garden
+    - aefly
+    - tech
+    - sysadmin
+    - dev
+    - webdev
+    - developer
+    - tutorial
+    - guide
+    - ideas
+  author: aefly
+  DateFormat: "2 January, 2006"
+  defaultTheme: dark
+  disableThemeToggle: true
+
+  assets:
+    disableHLJS: false
+    disableFingerprinting: false
+    favicon: "/favicons/favicon.ico"
+    favicon16x16: "/favicons/favicon-16x16.png"
+    favicon32x32: "/favicons/favicon-32x32.png"
+    apple_touch_icon: "/favicons/apple-touch-icon.png"
+    safari_pinned_tab: "/favicons/safari-pinned-tab.svg"
+    android_chrome192x192: "/favicons/android-chrome-192x192.png"
+    android_chrome512x512: "/favicons/android-chrome-512x512.png"
+    webmanifest: "/favicons/site.webmanifest"
+
+  label:
+    text: "@aefly"
+
+  homeInfoParams:
+    Title: "Hi there 👋"
+    Content: |
+      > * 💫 Welcome to my digital garden! Here, I'll be posting pretty anything, from projects and tech experiments to tutorials and personal reflections, ensuring there's something to captivate everyone's interests.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/aefly"
+    - name: x
+      url: "https://x.com/aefly_gg"
+    - name: behance
+      url: "https://www.behance.net/aefly"
+    - name: spotify
+      url: "https://open.spotify.com/user/31gx3um35hp5nhbgc54odzxgwldy"
+    - name: soundcloud
+      url: "https://soundcloud.com/aefly"
+    - name: osu
+      url: "https://osu.ppy.sh/users/30290332"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10
+    keys: ["title", "permalink", "summary", "content"]
+
+  analytics:
+    plausible:
+      Domain: "blog.aefly.gg"
+      URL: "https://stats.manager.aefly.gg/js/script.js"
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: Search
+      name: Search
+      url: /search/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
+
+pygmentsUseClasses: false
+markup:
+  highlight:
+    lineNos: true
+    style: modus-vivendi
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
