@@ -15,7 +15,7 @@
 
 ## 📝 Introduction
 
-This blog is made with [Hugo](https://gohugo.io/) and with highly customized [PaperMod](https://github.com/adityatelange/hugo-PaperMod) for my personal needs.
+This blog is made with [Hugo](https://gohugo.io/) and highly customized [PaperMod](https://github.com/adityatelange/hugo-PaperMod) for my personal needs.
 
 ## 📖 License
 
