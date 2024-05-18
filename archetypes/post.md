@@ -5,6 +5,7 @@ author: "aefly"
 slug:
 tags: [""]
 description: ""
+comments: true
 draft: false
 showToc: true
 TocOpen: false
