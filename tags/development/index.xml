@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on aefly&#39;s blog</title>
-    <link>https://blog.aefly.gg/posts/</link>
-    <description>Recent content in Posts on aefly&#39;s blog</description>
+    <title>Development on aefly&#39;s blog</title>
+    <link>https://blog.aefly.gg/tags/development/</link>
+    <description>Recent content in Development on aefly&#39;s blog</description>
     <image>
       <title>aefly&#39;s blog</title>
       <url>https://cdn.aefly.gg/cache/v1/blog/opengraph.webp</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 May 2024 19:37:25 +0000</lastBuildDate>
-    <atom:link href="https://blog.aefly.gg/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.aefly.gg/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Minimal VSCode Setup</title>
       <link>https://blog.aefly.gg/posts/my-minimal-vscode-setup/</link>
@@ -20,15 +20,6 @@
       <guid>https://blog.aefly.gg/posts/my-minimal-vscode-setup/</guid>
       <description>Introduction VSCode has become the go-to code editor for many developers due to its versatility, performance, and extensive ecosystem of plugins. However, setting up the perfect environment can sometimes feel overwhelming with the sheer number of options available. In this post, I&amp;rsquo;ll share my minimal VSCode setup, including configurations and essential plugins that enhance my workflow without overwhelming it.
 Theme Choosing a theme that is easy on the eyes and enhances readability is crucial.</description>
-    </item>
-    <item>
-      <title>Hello, world</title>
-      <link>https://blog.aefly.gg/posts/hello-world/</link>
-      <pubDate>Wed, 15 May 2024 11:15:31 +0000</pubDate>
-      <guid>https://blog.aefly.gg/posts/hello-world/</guid>
-      <description>Hello World! Welcome to my blog!
-I&amp;rsquo;m excited to kick off this journey of sharing my experiences, insights, and discoveries with all of you. Whether you&amp;rsquo;re a fellow tech enthusiast, a curious learner, or someone who stumbled upon this page by chance, I&amp;rsquo;m glad you&amp;rsquo;re here.
-Why I&amp;rsquo;m Blogging? The main reason I&amp;rsquo;m starting this blog is to connect with people who share my passions. I love diving into new technologies, experimenting with projects, and figuring out the best ways to solve problems.</description>
     </item>
   </channel>
 </rss>

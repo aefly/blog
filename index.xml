@@ -6,13 +6,21 @@
     <description>Recent content on aefly&#39;s blog</description>
     <image>
       <title>aefly&#39;s blog</title>
-      <url>https://cdn.aefly.gg/cache/v1/opengraph.webp</url>
-      <link>https://cdn.aefly.gg/cache/v1/opengraph.webp</link>
+      <url>https://cdn.aefly.gg/cache/v1/blog/opengraph.webp</url>
+      <link>https://cdn.aefly.gg/cache/v1/blog/opengraph.webp</link>
     </image>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 May 2024 11:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 19:37:25 +0000</lastBuildDate>
     <atom:link href="https://blog.aefly.gg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Minimal VSCode Setup</title>
+      <link>https://blog.aefly.gg/posts/my-minimal-vscode-setup/</link>
+      <pubDate>Sat, 18 May 2024 19:37:25 +0000</pubDate>
+      <guid>https://blog.aefly.gg/posts/my-minimal-vscode-setup/</guid>
+      <description>Introduction VSCode has become the go-to code editor for many developers due to its versatility, performance, and extensive ecosystem of plugins. However, setting up the perfect environment can sometimes feel overwhelming with the sheer number of options available. In this post, I&amp;rsquo;ll share my minimal VSCode setup, including configurations and essential plugins that enhance my workflow without overwhelming it.
+Theme Choosing a theme that is easy on the eyes and enhances readability is crucial.</description>
+    </item>
     <item>
       <title>Hello, world</title>
       <link>https://blog.aefly.gg/posts/hello-world/</link>
