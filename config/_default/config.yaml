@@ -24,7 +24,7 @@ params:
   title: aefly's blog
   description: Dive into my world through my blog where I share my projects, tutorials, and inspirations.
   copyrightName: aefly.gg
-  images: ["https://cdn.aefly.gg/cache/v1/opengraph.webp"]
+  images: ["https://cdn.aefly.gg/cache/v1/blog/opengraph.webp"]
   keywords:
     - blog
     - digital garden
