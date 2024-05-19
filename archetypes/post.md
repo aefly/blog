@@ -4,7 +4,6 @@ date: {{ .Date }}
 author: "aefly"
 slug:
 tags: [""]
-description: ""
 comments: true
 draft: false
 showToc: true
@@ -15,7 +14,6 @@ hideSummary: false
 searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
-ShowPostNavLinks: true
 ShowCodeCopyButtons: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
