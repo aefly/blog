@@ -3,8 +3,7 @@ title: "Hello, world"
 date: 2024-05-15T11:15:31Z
 author: "aefly"
 slug: hello-world
-tags: ["hello-world"]
-description: ""
+tags: ["Hello World"]
 comments: true
 draft: false
 showToc: true
@@ -15,7 +14,6 @@ hideSummary: false
 searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
-ShowPostNavLinks: true
 ShowCodeCopyButtons: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
