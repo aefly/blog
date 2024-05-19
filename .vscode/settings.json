@@ -19,6 +19,5 @@
 	},
 	"prettier.printWidth": 80,
 	"prettier.useTabs": true,
-	"prettier.tabWidth": 2,
-	"gutterpreview.showImagePreviewOnGutter": false
+	"prettier.tabWidth": 2
 }
