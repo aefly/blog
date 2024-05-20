@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 May 2024 19:37:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 00:59:47 +0000</lastBuildDate>
     <atom:link href="https://blog.aefly.gg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing Giscus Comments</title>
+      <link>https://blog.aefly.gg/posts/testing-giscus-comments/</link>
+      <pubDate>Mon, 20 May 2024 00:59:47 +0000</pubDate>
+      <guid>https://blog.aefly.gg/posts/testing-giscus-comments/</guid>
+      <description>Introduction For those who might not be familiar, Giscus is an open-source, GitHub-powered comment system that allows you to embed GitHub discussions directly into your website.
+Why Giscus? Let’s talk about why I chose Giscus for my blog. Traditional comment systems often come with privacy concerns and require maintaining separate user accounts. Giscus leverages GitHub’s infrastructure, which means it benefits from GitHub’s robust security, widespread use, and community engagement. Plus, it’s open-source, aligning with my values of transparency and community collaboration.</description>
+    </item>
     <item>
       <title>My Minimal VSCode Setup</title>
       <link>https://blog.aefly.gg/posts/my-minimal-vscode-setup/</link>
