@@ -107,7 +107,7 @@ Here is my global `settings.json`, optimized for a clean and efficient coding ex
 
 With the settings listed above, my VSCode environment looks like this:
 
-![VSCode](https://cdn.aefly.gg/cache/v1/blog/my-minimal-vscode-setup/1.webp)
+![VSCode](https://cdn.aefly.gg/cache/v1/blog/my-minimal-vscode-setup/vscode-setup.webp)
 
 ## Conclusion
 
